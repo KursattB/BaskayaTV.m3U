@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1
-https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8
+http://116.202.238.88/TRT1_TR/index.m3u8
 #EXTINF:-1:, SHOW TV
 https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/04fb743d-4a72-4907-8c54-f53b72c3600a.png
